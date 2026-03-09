@@ -22,7 +22,7 @@ This skill works with any AI coding agent that supports skill packages or can ex
     </td>
     <td align="center" width="160">
       <a href="https://openai.com/codex/">
-        <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI Codex" /><br />
+        <img src="https://us1.discourse-cdn.com/openai1/original/4X/3/2/1/321a1ba297482d3d4060d114860de1aa5610f8a9.png" width="48" height="48" alt="OpenAI Codex" /><br />
         <b>OpenAI Codex</b>
       </a>
     </td>
